@@ -13,4 +13,4 @@ fig = px.histogram(dataset, x="creatinine_phosphokinase", color="DEATH_EVENT", m
 fig.show()
 ```
 
-
+2. Best word clouds representations in python : https://www.kaggle.com/aashita/word-clouds-of-various-shapes
